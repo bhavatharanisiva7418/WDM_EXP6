@@ -134,13 +134,13 @@ print(f"\nThe highest rank cosine score is: {highest_score} (Document ID: {highe
 
 ![WhatsApp Image 2025-09-26 at 11 43 12_6394535e](https://github.com/user-attachments/assets/c9984366-d7e7-466f-bfb9-8c72eab99de5)
 
+![WhatsApp Image 2025-09-26 at 11 43 15_91071679](https://github.com/user-attachments/assets/e9ae5d45-c36b-401f-8510-edb5eb523ceb)
+
 ![WhatsApp Image 2025-09-26 at 11 43 13_6be33a31](https://github.com/user-attachments/assets/3ca1b48e-8511-4a51-a6b1-119f791ddfb3)
 
 ![WhatsApp Image 2025-09-26 at 11 43 13_6be33a31](https://github.com/user-attachments/assets/4e24f1b2-2ded-4690-8a98-8d1de9f47471)
 
 ![WhatsApp Image 2025-09-26 at 11 43 15_91071679](https://github.com/user-attachments/assets/e9ae5d45-c36b-401f-8510-edb5eb523ceb)
 
-
-w<img width="1683" height="322" alt="image" src="https://github.com/user-attachments/assets/45de46e1-b5c7-4c4c-89e8-340c6c9e9f39" />
 
 ### Result:
