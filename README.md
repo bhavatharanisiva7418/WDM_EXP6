@@ -1,5 +1,5 @@
 ### EX6 Information Retrieval Using Vector Space Model in Python
-### DATE: 
+### DATE:26.09.2025 
 ### AIM: To implement Information Retrieval Using Vector Space Model in Python.
 ### Description: 
 <div align = "justify">
@@ -31,10 +31,10 @@ nltk.download('stopwords')
 
 # Sample documents
 documents = {
-    "doc1": "Tropical freshwater aquarium fish.",
-    "doc2": "Tropical fish aquarium care,tank setup.",
-    "doc3": "Keeping Tropicalfish and goldfish in aquariums,and fish bowls.",
-    "doc4": "The tropical tank homepage-tropical fish and aquariums",
+    "doc1": "This is the first document.",
+    "doc2": "This document is the second document.",
+    "doc3": "And this is the third one.",
+    "doc4": "Is this the first document?",
 }
 
 # Preprocessing
@@ -136,7 +136,11 @@ print(f"\nThe highest rank cosine score is: {highest_score} (Document ID: {highe
 
 ![WhatsApp Image 2025-09-26 at 11 43 15_91071679](https://github.com/user-attachments/assets/e9ae5d45-c36b-401f-8510-edb5eb523ceb)
 
+![WhatsApp Image 2025-09-26 at 11 43 13_084cbc55](https://github.com/user-attachments/assets/9eda1375-6cd3-43db-b2d5-8979add5d3c1)
 
+![WhatsApp Image 2025-09-26 at 11 43 14_5adf2c52](https://github.com/user-attachments/assets/51cb4aa5-63c2-4aa3-bfa0-3bce0309ac5b)
 
 
 ### Result:
+
+Thus, the Information Retrieval system using the Vector Space Model was successfully implemented in Python. The system was able to preprocess documents, construct a TF-IDF matrix, and retrieve documents relevant to a user query based on cosine similarity. The search results were displayed in a tabular format along with their similarity scores.
